@@ -1,0 +1,1 @@
+- You cannot change the datatype of a variable even if we make that variable as mutable
